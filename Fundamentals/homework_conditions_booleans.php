@@ -2,15 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>first_tag</title>
+    <title>homework_conditions_booleans</title>
 </head>
 <body>
-
     <h1>
-        <?php
-            echo "Hello, World";
-        ?>
+        <?= 'Hello World' ?>
     </h1>
-
 </body>
 </html>
