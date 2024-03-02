@@ -32,20 +32,6 @@
     </ul>
 
     <ul>
-        <?php foreach ($books as $book) {
-            echo "<li> $book TM </li>";
-        }
-        ?>
-    </ul>
-    
-    <ul>
-        <?php foreach ($books as $book) {
-            echo "<li> $bookTM </li>";
-        }
-        ?>
-    </ul>
-
-    <ul>
         <?php foreach ($books as $book) : ?>
             <li><?= $book ?></li>
         <?php endforeach; ?>
