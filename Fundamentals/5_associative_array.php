@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>Demo</title>
+    <title>Associative Array</title>
 </head>
 
 <body>
